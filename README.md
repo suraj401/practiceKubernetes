@@ -14,6 +14,7 @@ Create the Ingress in the cluster
 $ kubectl create -f ingress.yaml
 
 Check Output
+
 $ curl -kL http://localhost/apple
 apple
 
